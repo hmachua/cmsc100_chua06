@@ -1,5 +1,5 @@
 # CMSC 100 - Exercise 06: MongoDB
-
+## Project: User Management using Express, Mongoose, Needle, and MongoDB
 ## Author
 * **Name:** Hanna Myeisha A. Chua
 * **Student Number:** 2023-06871
